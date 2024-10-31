@@ -1,3 +1,3 @@
 # Portfolio
 
-Personal Blog Page built from scratch using QUARTO.
+Personal Blog Page  from scratch using QUARTO.
